@@ -1,0 +1,18 @@
+Junior AI Engineer
+
+Required Skills:
+Python
+Machine Learning
+NLP
+Generative AI
+LLM
+RAG
+SQL
+Git
+Streamlit
+
+Responsibilities:
+Develop AI applications.
+Build NLP and machine learning solutions.
+Work with LLM and RAG applications.
+Create and deploy AI applications using Python and Streamlit.
