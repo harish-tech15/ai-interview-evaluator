@@ -880,4 +880,4 @@ st.caption(
     "Built with Python, Hugging Face, "
     "Sentence Transformers & Streamlit"
 )
-```
+
